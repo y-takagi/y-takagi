@@ -18,3 +18,11 @@
      - Typescript, Swift, Kotlin, Objective-C, Java, Ruby
    - Platforms & Frameworks
      - Angular, iOS, Android, Ruby on Rails, Docker, AWS
+
+** Like
+   - OS
+     - macOS
+   - Language
+     - Typescript
+   - Editor
+     - Emacs
