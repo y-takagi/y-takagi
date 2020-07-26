@@ -1,1 +1,20 @@
-* test
+* y-takagi
+  is a web frontend/iOS, android app engineer.
+
+** Experience
+   - every Inc.                  (2018 - Ongoing)
+     - Software Engineer
+   - Bebop Inc.                  (2017 - 2018)
+     - Software Engineer
+   - Tonchidot corp.             (2011 - 2017)
+     - Software Engineer
+
+** Education
+   - Tokyo University of Science (2009 - 2011)
+     - Master of Engineering
+
+** Skills
+   - Programming Languages
+     - Typescript, Swift, Kotlin, Objective-C, Java, Ruby
+   - Platforms & Frameworks
+     - Angular, iOS, Android, Ruby on Rails, Docker, AWS
