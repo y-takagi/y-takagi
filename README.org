@@ -14,7 +14,7 @@
    - Tokyo University of Science (2009 - 2011)
      - Master of Engineering
 
-** Skills
+** Tech Stack
    - Programming Languages
      - Typescript, Swift, Kotlin, Objective-C, Java, Ruby
    - Platforms & Frameworks
