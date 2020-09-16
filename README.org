@@ -2,6 +2,9 @@
   is a web frontend/iOS, android app engineer.
   ❤️ macOS, Typescript, Emacs.
 
+** Link
+   - [[https://gist.github.com/y-takagi][Gist]]
+
 ** Experience
    - every Inc.                  (2018 - Ongoing)
      - Software Engineer
