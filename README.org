@@ -1,5 +1,5 @@
 * y-takagi
-  is a web frontend/iOS, android app engineer.
+  is a web frontend/iOS/android app engineer.
   ❤️ macOS, Typescript, Emacs.
 
 ** Link
