@@ -2,6 +2,12 @@
   is a web frontend/iOS/android app engineer.
   ❤️ macOS, Typescript, Emacs.
 
+** Tech Stack
+   - Programming Languages
+     - Typescript, Swift, Kotlin, Objective-C, Java, Ruby
+   - Platforms & Frameworks
+     - Angular, iOS, Android, Ruby on Rails, Docker, AWS
+
 ** Link
    - [[https://gist.github.com/y-takagi][Gist]]
 
@@ -16,10 +22,3 @@
 ** Education
    - Tokyo University of Science (2009 - 2011)
      - Master of Engineering
-
-** Tech Stack
-   - Programming Languages
-     - Typescript, Swift, Kotlin, Objective-C, Java, Ruby
-   - Platforms & Frameworks
-     - Angular, iOS, Android, Ruby on Rails, Docker, AWS
-
