@@ -9,6 +9,7 @@
      - Angular, iOS, Android, Ruby on Rails, Docker, AWS
 
 ** Link
+   - [[https://twitter.com/y_takagi][Twitter]]
    - [[https://gist.github.com/y-takagi][Gist]]
    - [[https://atcoder.jp/users/ytakagi][Atcoder]]
 
