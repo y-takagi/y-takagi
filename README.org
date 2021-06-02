@@ -1,5 +1,6 @@
 * y-takagi
   is a web frontend/iOS/android app engineer.
+  Interested in Web Native.
   ❤️ macOS, Typescript, Emacs.
 
 ** Tech Stack
