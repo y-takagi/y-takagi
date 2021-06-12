@@ -7,7 +7,7 @@
    - Programming Languages
      - Typescript, Swift, Kotlin, Objective-C, Java, Ruby
    - Platforms & Frameworks
-     - Angular, iOS, Android, Ruby on Rails, Docker, AWS
+     - Web, Angular, iOS, Android, Ruby on Rails, Docker, AWS
 
 ** Find Me At
    - [[https://twitter.com/y_takagi][Twitter]]
@@ -16,7 +16,7 @@
 
 ** Experience
    - every Inc.                  (2018 - Ongoing)
-     - Lead Software Engineer
+     - Software Engineer
    - Bebop Inc.                  (2017 - 2018)
      - Software Engineer
    - Tonchidot corp.             (2011 - 2017)
