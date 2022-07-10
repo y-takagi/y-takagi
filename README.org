@@ -5,9 +5,9 @@
 
 ** Tech Stack
    - Programming Languages
-     - Typescript, Swift, Kotlin, Objective-C, Java, Ruby
+     - Typescript, Dart, Swift, Kotlin, Objective-C, Java, Ruby
    - Platforms & Frameworks
-     - Web, Angular, iOS, Android, Ruby on Rails, Docker, AWS
+     - Web, Angular, Flutter, iOS, Android, Ruby on Rails, Docker, AWS
 
 ** Find Me At
    - [[https://twitter.com/y_takagi][Twitter]]
