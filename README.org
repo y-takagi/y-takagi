@@ -3,19 +3,15 @@
   Interested in Web Native.
   ❤️ macOS, Typescript, Emacs.
 
-** Tech Stack
-   - Programming Languages
-     - Typescript, Dart, Swift, Kotlin, Objective-C, Java, Ruby
-   - Platforms & Frameworks
-     - Web, Angular, Flutter, iOS, Android, Ruby on Rails, Docker, AWS
-
 ** Find Me At
    - [[https://twitter.com/y_takagi][Twitter]]
    - [[https://gist.github.com/y-takagi][Gist]]
    - [[https://atcoder.jp/users/ytakagi][Atcoder]]
 
 ** Experience
-   - every Inc.                  (2018 - Ongoing)
+   - Freelance                   (2023 - Ongoing)
+   - STANDARD Inc.               (2023 - 2023)
+   - every Inc.                  (2018 - 2022)
      - Software Engineer
    - Bebop Inc.                  (2017 - 2018)
      - Software Engineer
